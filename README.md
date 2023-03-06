@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm João Henrique!</h1>
 <h2 align="center">A frontend developer from São Paulo, Brazil.</h2>
-<h3 align="center">About me.</h3>
+
+
+<h4 align="center">About me</h4>
 
 <p align="center"> 🖥️ Currently studying systems analysis and development in Fatec de Carapicuíba.</p>
 
