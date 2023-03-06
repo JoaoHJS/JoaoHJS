@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm João Henrique!</h1>
 <h3 align="center">A frontend developer from São Paulo, Brazil.</h3>
 
-- 🖥️ Currently studying systems analysis and development in Fatec de Carapicuíba.
+<p align="center"> 🖥️ Currently studying systems analysis and development in Fatec de Carapicuíba.</p>
 
-- 🌱 I’m currently learning **NodeJS and Express.**
+<p align="center"> 🌱 I’m currently learning **NodeJS and Express.**</p>
 
-- 📫 How to reach me **joaohjse@gmail.com**
+<p align="center"> 📫 How to reach me **joaohjse@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
