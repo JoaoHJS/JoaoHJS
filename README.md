@@ -1,12 +1,10 @@
-<img src="https://raw.githubusercontent.com/JoaoHJS/JoaoHJS/main/assets/banner.png"/>
-
 <h1> João Henrique </h1>
 <h4> FullStack Developer & UI Designer </h4>
 <div>
-  <a href="">
+  <a href="https://www.linkedin.com/in/joaohdev/">
     <img src="https://img.shields.io/badge/Jo%C3%A3o%20Henrique-5271ff?style=flat-square&logo=linkedin&logoColor=white" />
   </a>  
-  <a href="">
+  <a href="https://www.joaohdev-portfolio.com.br">
     <img src="https://img.shields.io/badge/Meu%20portf%C3%B3lio-5271ff?style=flat-square&logo=html&logoColor=white" />
   </a>
 </div>
